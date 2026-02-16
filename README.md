@@ -22,4 +22,4 @@ Laskuri perustuu useisiin muuttujiin, kuten menetettyyn liikevaihtoon (kävijät
 
 ---
 
-**Tekijä:** [Mikko-lab
+**Tekijä:** Mikko-lab
